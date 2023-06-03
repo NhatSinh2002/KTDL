@@ -1,6 +1,6 @@
 # IS403.N21.HTTT_Nhom7
 Nhóm 7
-Tóm tắt:
+Tóm tắt:Dữ liệu lấy từ (1-12-2017 đến 2/6/2023)
 Trong thị trường tài chính, dự đoán giá chứng khoán là một vấn đề quan trọng và được quan tâm rộng rãi. 
 Nghiên cứu này nhằm mục đích sử dụng các mô hình dự đoán giá chứng khoán để dự đoán giá của ba công ty chứng khoán nổi tiếng tại Việt Nam,
 bao gồm Công ty Cổ phần Tập đoàn Đất Xanh (DXG), CTCP Tập đoàn Hoa Sen (HSG), và Tập đoàn Công nghiệp Cao su Việt Nam (GVR).
