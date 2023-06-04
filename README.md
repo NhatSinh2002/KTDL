@@ -25,5 +25,5 @@ Các mô hình sử dụng:
 7. TimeGan
 8. KNN
 9. VAG
-10. 
+10. CNN-LSTM
 
